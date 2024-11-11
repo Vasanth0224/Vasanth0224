@@ -25,7 +25,7 @@ I'm a passionate Data Scientist who loves to work with data, build predictive mo
 ## Featured Projects
 
 ### [FoodHub Data Analysis](https://github.com/Vasanth0224/FoodHub-Data-Analysis.git)
-A short description of the project: [what you did, technologies used, key outcomes].
+The data contains the different data related to a food order.
 
 ### [Project Name 2](link-to-project)
 A short description of the project: [what you did, technologies used, key outcomes].
