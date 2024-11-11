@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vasanth 👋
 
 I'm a passionate Data Scientist who loves to work with data, build predictive models, and uncover insights that drive decision-making. Welcome to my GitHub!
 
@@ -24,7 +24,7 @@ I'm a passionate Data Scientist who loves to work with data, build predictive mo
 
 ## Featured Projects
 
-### [Project Name 1](link-to-project)
+### [FoodHub Data Analysis](https://github.com/Vasanth0224/FoodHub-Data-Analysis.git)
 A short description of the project: [what you did, technologies used, key outcomes].
 
 ### [Project Name 2](link-to-project)
